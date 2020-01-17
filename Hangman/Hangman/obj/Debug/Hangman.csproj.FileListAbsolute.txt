@@ -1,0 +1,6 @@
+c:\users\jonathan eastwood\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Jonathan Eastwood\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Eastwood\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Jonathan Eastwood\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Jonathan Eastwood\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Jonathan Eastwood\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.pdb
